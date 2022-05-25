@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 3.30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Groceries Shopping",
+      "day": "Feb 7th at 4.00pm",
+      "reminder": false
+    },
+    {
+      "text": "Buy Groceries",
+      "day": "Apr 16",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "new task",
+      "day": "12Apr",
+      "reminder": true,
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
